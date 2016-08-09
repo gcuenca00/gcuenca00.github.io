@@ -7,3 +7,7 @@ body{
 	background-image: url("background.jpg");
 	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
+
+div.transbox {
+	opacity: 0.5;
+}
