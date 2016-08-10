@@ -2,6 +2,6 @@ function myFunction() {
 	alert('BOO!');
 }
 
-function myFunction1() {
+function changeFunction() {
    document.getElementById("demo").innerHTML = "Hehehehehe";
 }
