@@ -18,5 +18,5 @@ div.transbox {
 
 div.photo {
     width: 300px; /*set the width or max-width*/
-    height: auto; /*this makes sure to maintain the aspect ratio*/
+    height: 500px; /*this makes sure to maintain the aspect ratio*/
 }
